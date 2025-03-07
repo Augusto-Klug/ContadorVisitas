@@ -1,0 +1,6 @@
+@ContadorVisitas_HostAddress = http://localhost:5095
+
+GET {{ContadorVisitas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
